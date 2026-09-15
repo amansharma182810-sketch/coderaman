@@ -1,0 +1,9 @@
+{
+  "name": "clinic-management-web",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {"dev": "vite --port 5174", "build": "vite build", "preview": "vite preview"},
+  "dependencies": {"@vitejs/plugin-react": "latest", "vite": "latest", "react": "latest", "react-dom": "latest", "socket.io-client": "latest"},
+  "devDependencies": {}
+}
